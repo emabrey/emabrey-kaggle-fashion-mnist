@@ -1,4 +1,4 @@
-#Fashion-MNIST Kaggle
+# Fashion-MNIST Kaggle
 
 This is a copy of my fashion MNIST code which I wrote on Kaggle and which I figured I should add to my GitHub. I don't have a ton of machine learning experience, so this was a bit of a learning exercise for me.
 
